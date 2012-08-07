@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test_Management_Software", "Test_Management_Software\Test_Management_Software.csproj", "{F764A8A7-286A-4062-940D-1FD104F1AF77}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "TMS_Installer", "TMS_Installer\TMS_Installer.vdproj", "{EFD967C2-EDFA-4C51-ADD2-2EC2CB6F628E}"
+EndProject
+Global
+	GlobalSection(SubversionScc) = preSolution
+		Svn-Managed = True
+		Manager = AnkhSVN - Subversion Support for Visual Studio
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F764A8A7-286A-4062-940D-1FD104F1AF77}.Debug|x86.ActiveCfg = Debug|x86
+		{F764A8A7-286A-4062-940D-1FD104F1AF77}.Debug|x86.Build.0 = Debug|x86
+		{F764A8A7-286A-4062-940D-1FD104F1AF77}.Release|x86.ActiveCfg = Release|x86
+		{F764A8A7-286A-4062-940D-1FD104F1AF77}.Release|x86.Build.0 = Release|x86
+		{EFD967C2-EDFA-4C51-ADD2-2EC2CB6F628E}.Debug|x86.ActiveCfg = Debug
+		{EFD967C2-EDFA-4C51-ADD2-2EC2CB6F628E}.Release|x86.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

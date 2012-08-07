@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/245/trunk/Test_Management_Software/Test_Management_Software/Classes
+END
+Template.cs
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/247/trunk/Test_Management_Software/Test_Management_Software/Classes/Template.cs
+END
+Document.cs
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/122/trunk/Test_Management_Software/Test_Management_Software/Classes/Document.cs
+END
+TemplateStorage.cs
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/177/trunk/Test_Management_Software/Test_Management_Software/Classes/TemplateStorage.cs
+END
+Singleton.cs
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/78/trunk/Test_Management_Software/Test_Management_Software/Classes/Singleton.cs
+END
+DocumentStorage.cs
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/183/trunk/Test_Management_Software/Test_Management_Software/Classes/DocumentStorage.cs
+END
+Version.cs
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/117/trunk/Test_Management_Software/Test_Management_Software/Classes/Version.cs
+END
+Project.cs
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/164/trunk/Test_Management_Software/Test_Management_Software/Classes/Project.cs
+END
+Program.cs
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/43/trunk/Test_Management_Software/Test_Management_Software/Classes/Program.cs
+END
